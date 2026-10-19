@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/knodemd/brand/main/09%20Banners/Repository%20Previews/PNG/repo-preview-brand-license.png" alt="Knode brand-license" width="100%">
+
 # Knode Brand License
 
 Knode is open source. Its brand is not.
